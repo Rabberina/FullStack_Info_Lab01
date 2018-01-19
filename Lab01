@@ -1,0 +1,9 @@
+cd <dirname>
+mkdir <dirname>
+mv oldfolder newfolder
+ls
+mv old_folder_name new_folder_name
+cp
+grep
+ssh
+rm
